@@ -25,10 +25,6 @@
     background: linear-gradient(to left, rgb(255, 255, 255) 50%, rgb(238, 0, 255) 50%, rgb(149, 0, 255) 100%) right;
     background-size: 200%;
   }
-  .Text {
-    border: none;
-    font-size: 16px;
-  }
   
   .FancyText:hover {
   background-position: left;

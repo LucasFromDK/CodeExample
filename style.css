@@ -25,6 +25,10 @@
     background: linear-gradient(to left, rgb(255, 255, 255) 50%, rgb(238, 0, 255) 50%, rgb(149, 0, 255) 100%) right;
     background-size: 200%;
   }
+  .Text {
+    border: none;
+    font-size: 16px;
+  }
   
   .FancyText:hover {
   background-position: left;
@@ -44,8 +48,9 @@
   
   p {
     font-family: 'Lato', sans-serif;
+    font-weight: 300;
     letter-spacing: 1px;
-    font-size:14px;
+    font-size:24px;
     color: #333333;
   }
 

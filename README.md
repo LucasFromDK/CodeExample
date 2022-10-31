@@ -1,2 +1,2 @@
-# CodeExample
-School Example
+# Kode Eksempler
+

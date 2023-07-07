@@ -1,3 +1,2 @@
-# Kode Eksempler
-
-https://lucasfromdk.github.io/CodeExample/
+# Code Examples
+# http://lucasfromdk.me/CodeExample/
